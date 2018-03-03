@@ -19,7 +19,7 @@ Let's put some bullets on what good architectures should be:
 4. Extendable
 
 # Building with Gradle
-It’s also a good idea to put all links to maven and all global dependencies into buildscript right, i have added fav-reveal menu, william chart library ,cardview.
+It’s also a good idea to put all links to maven and all global dependencies into buildscript right, i have added fab-reveal menu, william chart library ,cardview.
 
 # Web services
 I have created GenericRequestTask for genericness for the code which is extending AsyncTask and load the data in the background
