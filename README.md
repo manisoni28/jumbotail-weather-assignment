@@ -34,6 +34,8 @@ I have created GenericRequestTask for genericness for the code which is extendin
 
 # Challenges
 
-1. Fetching data and thinking of proper architecture and flow
-2. Deep linking feature,although finally code was easy but new feature to play for me
-3. Changes made in location correspondingly showing changes in the chart 
+1. Fetching data and maintaining proper Api structure
+2. Thinking of proper architecture and flow
+3. How to make UI and UX interactive
+4. Deep linking feature,although finally code was easy but new feature to play for me
+5. Changes made in location correspondingly showing changes in the chart 
